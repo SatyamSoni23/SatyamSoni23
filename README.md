@@ -1,5 +1,5 @@
 ### Hi there, I'm Satyam Soni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+ <img align="right" alt="GIF" src="https://github.com/SatyamSoni23/SatyamSoni23/blob/master/prog.gif?raw=true" width="500" height="320" />
 <!--
 **SatyamSoni23/SatyamSoni23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
