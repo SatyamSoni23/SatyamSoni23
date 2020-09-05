@@ -53,3 +53,8 @@ Here are some ideas to get you started: -->
 <img align="left" alt="XAMPP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/xampp.svg" />
 <img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/anaconda.svg" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/amazonaws.svg" />
+
+<br/>
+
+### 📊 GitHub Stats:
+![Satyam Soni's github stats](https://github-readme-stats.vercel.app/api?username=SatyamSoni23&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
