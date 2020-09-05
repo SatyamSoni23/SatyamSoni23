@@ -38,11 +38,18 @@ Here are some ideas to get you started: -->
 <br/>
 
 ### Languages and Tools:
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual/>
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/cplusplus.svg" />
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/c.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/python.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg" />
+<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/android.svg" />
+<img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/androidstudio.svg" />
+<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/firebase.svg" />
+<img align="left" alt="Sqlite3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/sqlite.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/css3.svg" />
+<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/php.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/mysql.svg" />
+<img align="left" alt="XAMPP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/xampp.svg" />
+<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/anaconda.svg" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/amazonaws.svg" />
