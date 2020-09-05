@@ -2,8 +2,8 @@
 
 <!--
 **SatyamSoni23/SatyamSoni23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
+Here are some ideas to get you started: -->
+### Talking about Personal Stuffs:
 - 🔭 I’m currently working on something cool 
 - 🌱 I’m currently learning Android-OpenCV
 - 💬 Ask me about anything related to Android application Development.I am happy to help.
