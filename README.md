@@ -9,9 +9,9 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on something cool 
 - 🌱 I’m currently learning Android-OpenCV
 - 💬 Ask me about anything related to Android application development. I am happy to help.
-- 📫 How to reach me: [@satyamsoni](https://www.linkedin.com/in/satyam-soni-332522172/) or say 👋 on Email at [Satyam Soni](mailto:satyamsoni2305@gmail.com)
+- 📫 How to reach me: [@satyamsoni](https://www.linkedin.com/in/satyam-soni-332522172/) or say 👋 on Email at [Satyam Soni](mailto:2018kucp1121@iiitkota.ac.in)
 - ⚡ Fun fact: I ❤️ 🏍️
-- 📝 [Resume](https://drive.google.com/file/d/1FQ2M2VRzHOLBoO9u0ytkFj1F0wxuS2kP/view)
+- 📝 [Resume](https://drive.google.com/file/d/1JwwfYHRML5bCFwS2IiTz_3xUQV4ZFNM8/view)
 
 ### Connect with me:
 
