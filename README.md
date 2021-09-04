@@ -3,7 +3,8 @@
 <!--
 **SatyamSoni23/SatyamSoni23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
- <img align="right" alt="GIF" src="https://lottiefiles.com/55932-laptop-and-man" width="400" height="250">
+ <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_vfuqgv0l.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 
 ### Talking about Personal Stuff:
 - 🔭 I’m currently working on something cool 
