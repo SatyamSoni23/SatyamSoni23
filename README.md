@@ -3,7 +3,7 @@
 <!--
 **SatyamSoni23/SatyamSoni23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
- <img align="right" alt="GIF" src="https://assets10.lottiefiles.com/packages/lf20_vfuqgv0l.json" width="400" height="250">
+ <img align="right" alt="GIF" src="https://lottiefiles.com/55932-laptop-and-man" width="400" height="250">
 
 ### Talking about Personal Stuff:
 - 🔭 I’m currently working on something cool 
