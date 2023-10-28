@@ -11,7 +11,6 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about anything related to Backend development. I am happy to help.
 - 📫 How to reach me: [@satyamsoni](https://www.linkedin.com/in/satyam-soni-332522172/) or say 👋 on Email at [Satyam Soni](mailto:2018kucp1121@iiitkota.ac.in)
 - ⚡ Fun fact: I ❤️ 🏍️
-- 📝 [Resume](https://drive.google.com/file/d/1Art3lIWB3IgE0eyZ9-zmGRavaIh9fm5q/view)
 
 ### Connect with me:
 
